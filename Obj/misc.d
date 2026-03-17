@@ -1,0 +1,16 @@
+.\obj\misc.o: StdPeriph_Driver\src\misc.c
+.\obj\misc.o: .\StdPeriph_Driver\inc\misc.h
+.\obj\misc.o: .\Device\Include\stm32f10x.h
+.\obj\misc.o: D:\MDKKEIL\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h
+.\obj\misc.o: D:\MDKKEIL\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\misc.o: D:\MDKKEIL\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\obj\misc.o: D:\MDKKEIL\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\obj\misc.o: D:\MDKKEIL\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\obj\misc.o: .\Device\Include\system_stm32f10x.h
+.\obj\misc.o: .\user\stm32f10x_conf.h
+.\obj\misc.o: .\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\misc.o: .\Device\Include\stm32f10x.h
+.\obj\misc.o: .\StdPeriph_Driver\inc\stm32f10x_spi.h
+.\obj\misc.o: .\StdPeriph_Driver\inc\stm32f10x_usart.h
+.\obj\misc.o: .\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\misc.o: .\StdPeriph_Driver\inc\misc.h

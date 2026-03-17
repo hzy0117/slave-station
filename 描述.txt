@@ -1,0 +1,29 @@
+16 DO 	PD0~7,PE8~15
+16 DI	PD8~PD15，PC6，PC7，PC8，PC9，PA8，PA9，PA10, PC10
+12 AI	PA0~7，PB0，PB1，PC0，PC1
+
+
+初始化和具体的执行都在main_CLS_DIDOAIAO.cpp中
+初始化在C_DIDOAIAO::Initial()中完成
+开机后在main函数中初始化参数信息表cIO.Max   cIO.Min  cIO.Step
+
+C_DIDOAIAO::Scan100uS()
+每100us执行一次扫描
+根据stm32读到的值，更新DI，AI
+
+读取AO[0]改变工作模式  
+0：手动 根据DO，给stm32的输出管脚赋值,,,,,,没写完
+1：自动 根据写好的mapping.c中的信息自动执行一系列步骤
+	动作上升部分检测是否大于最大阈值,
+	动作下降部分检测是否小于最小阈值.
+2: 参数下载 下载一次写进内部flash
+
+
+具体任务：
+C_DIDOAIAO::Scan1S()
+在自动模式中的无参动作执行后进行计时
+根据实际的引脚输出设置DI16~31
+
+C_DIDOAIAO::Scanfor()
+
+2019.8.26

@@ -1,0 +1,72 @@
+Dependencies for Project 'STM32', Target 'STM32_USART1': (DO NOT MODIFY !)
+F (..\001GY\CMSIS\Include\core_cm3.h)(0x5898498A)()
+F (..\001GY\Device\Include\stm32f10x.h)(0x5825386C)()
+F (..\001GY\Device\Include\system_stm32f10x.h)(0x5825386C)()
+F (..\001GY\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)()
+F (..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)()
+F (..\001GY\Device\StdPeriph_Driver\src\misc.c)(0x52F9EB20)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -O3 --apcs=interwork -I ..\001GY\Device\StdPeriph_Driver\inc\ -I ..\001GY\CMSIS\Include\ -I ..\001GY\Device\Include\ -I ..\001GY\Device\Source\ARM\ -I .\user\-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="523" -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER-o .\obj\misc.o --depend .\obj\misc.d)
+I (..\001GY\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+I (..\001GY\Device\Include\stm32f10x.h)(0x5825386C)
+I (..\001GY\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\001GY\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (..\001GY\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (..\001GY\Device\Include\system_stm32f10x.h)(0x5825386C)
+I (.\user\stm32f10x_conf.h)(0x49D96952)
+I (..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+F (..\001GY\Device\StdPeriph_Driver\src\stm32f10x_gpio.c)(0x52F9EB20)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -O3 --apcs=interwork -I ..\001GY\Device\StdPeriph_Driver\inc\ -I ..\001GY\CMSIS\Include\ -I ..\001GY\Device\Include\ -I ..\001GY\Device\Source\ARM\ -I .\user\-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="523" -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER-o .\obj\stm32f10x_gpio.o --depend .\obj\stm32f10x_gpio.d)
+I (..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (..\001GY\Device\Include\stm32f10x.h)(0x5825386C)
+I (..\001GY\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\001GY\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (..\001GY\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (..\001GY\Device\Include\system_stm32f10x.h)(0x5825386C)
+I (.\user\stm32f10x_conf.h)(0x49D96952)
+I (..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+F (..\001GY\Device\Source\ARM\startup_stm32f10x_hd.s)(0x5825386C)(--cpu Cortex-M3 --pd "__RTX SETA 1" --apcs=interwork --pd "__MICROLIB SETA 1"-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x--pd "__UVISION_VERSION SETA 523"--list .\startup_stm32f10x_hd.lst --xref -o .\obj\startup_stm32f10x_hd.o --depend .\obj\startup_stm32f10x_hd.d)
+F (..\001GY\Device\StdPeriph_Driver\src\stm32f10x_rcc.c)(0x52F9EB20)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -O3 --apcs=interwork -I ..\001GY\Device\StdPeriph_Driver\inc\ -I ..\001GY\CMSIS\Include\ -I ..\001GY\Device\Include\ -I ..\001GY\Device\Source\ARM\ -I .\user\-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="523" -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER-o .\obj\stm32f10x_rcc.o --depend .\obj\stm32f10x_rcc.d)
+I (..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (..\001GY\Device\Include\stm32f10x.h)(0x5825386C)
+I (..\001GY\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\001GY\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (..\001GY\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (..\001GY\Device\Include\system_stm32f10x.h)(0x5825386C)
+I (.\user\stm32f10x_conf.h)(0x49D96952)
+I (..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+F (..\001GY\Device\Source\system_stm32f10x.c)(0x5825386C)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -O3 --apcs=interwork -I ..\001GY\Device\StdPeriph_Driver\inc\ -I ..\001GY\CMSIS\Include\ -I ..\001GY\Device\Include\ -I ..\001GY\Device\Source\ARM\ -I .\user\-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="523" -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER-o .\obj\system_stm32f10x.o --depend .\obj\system_stm32f10x.d)
+I (..\001GY\Device\Include\stm32f10x.h)(0x5825386C)
+I (..\001GY\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\001GY\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (..\001GY\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (..\001GY\Device\Include\system_stm32f10x.h)(0x5825386C)
+I (.\user\stm32f10x_conf.h)(0x49D96952)
+I (..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+F (.\user\stm32f10x_it.c)(0x5958C1CD)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -O3 --apcs=interwork -I ..\001GY\Device\StdPeriph_Driver\inc\ -I ..\001GY\CMSIS\Include\ -I ..\001GY\Device\Include\ -I ..\001GY\Device\Source\ARM\ -I .\user\-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="523" -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER-o .\obj\stm32f10x_it.o --depend .\obj\stm32f10x_it.d)
+I (user\stm32f10x_it.h)(0x516E3DC8)
+I (..\001GY\Device\Include\stm32f10x.h)(0x5825386C)
+I (..\001GY\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\001GY\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (..\001GY\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (..\001GY\Device\Include\system_stm32f10x.h)(0x5825386C)
+I (.\user\stm32f10x_conf.h)(0x49D96952)
+I (..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+F (.\user\main.c)(0x5958B1A0)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -O3 --apcs=interwork -I ..\001GY\Device\StdPeriph_Driver\inc\ -I ..\001GY\CMSIS\Include\ -I ..\001GY\Device\Include\ -I ..\001GY\Device\Source\ARM\ -I .\user\-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="523" -DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER-o .\obj\main.o --depend .\obj\main.d)
+I (..\001GY\Device\Include\stm32f10x.h)(0x5825386C)
+I (..\001GY\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\001GY\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (..\001GY\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (..\001GY\Device\Include\system_stm32f10x.h)(0x5825386C)
+I (.\user\stm32f10x_conf.h)(0x49D96952)
+I (..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_flash.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+F (.\user\stm32f10x_conf.h)(0x49D96952)()

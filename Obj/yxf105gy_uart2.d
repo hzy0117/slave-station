@@ -1,0 +1,16 @@
+.\obj\yxf105gy_uart2.o: ..\001GY\YXGY\YXF105GY_UART2.cpp
+.\obj\yxf105gy_uart2.o: ..\001GY\YXGY\YXF105GY.H
+.\obj\yxf105gy_uart2.o: ..\001GY\Device\Include\stm32f10x.h
+.\obj\yxf105gy_uart2.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\obj\yxf105gy_uart2.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\yxf105gy_uart2.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\yxf105gy_uart2.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\yxf105gy_uart2.o: ..\001GY\Device\Include\system_stm32f10x.h
+.\obj\yxf105gy_uart2.o: .\user\stm32f10x_conf.h
+.\obj\yxf105gy_uart2.o: ..\001GY\Device\StdPeriph_Driver\inc\misc.h
+.\obj\yxf105gy_uart2.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\yxf105gy_uart2.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\obj\yxf105gy_uart2.o: ..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\yxf105gy_uart2.o: ..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\yxf105gy_uart2.o: ..\001GY\YXGY\YXF105GY_UART2.H
+.\obj\yxf105gy_uart2.o: ..\001GY\Device\StdPeriph_Driver\inc\stm32f10x_usart.h

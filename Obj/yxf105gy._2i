@@ -1,0 +1,6 @@
+--cpp -c --cpu Cortex-M3 -O0 --apcs=interwork -I..\001GY\Device\StdPeriph_Driver\inc\ -I..\001GY\CMSIS\Include\ -I..\001GY\Device\Include\ -I..\001GY\Device\Source\ARM\ -I.\user\ -I..\001GY\YXGY
+-I C:\Keil\ARM\RV31\INC
+-I C:\Keil\ARM\CMSIS\Include
+-I C:\Keil\ARM\Inc\ST\STM32F10x
+-DSTM32F10X_CL -DUSE_STDPERIPH_DRIVER
+-o .\obj\yxf105gy.o --depend .\obj\yxf105gy.d --feedback ".\Obj\STM32.fed" "..\001GY\YXGY\YXF105GY.cpp"

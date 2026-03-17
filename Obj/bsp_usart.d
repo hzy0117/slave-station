@@ -1,0 +1,17 @@
+.\obj\bsp_usart.o: user\bsp_usart.c
+.\obj\bsp_usart.o: user\bsp_usart.h
+.\obj\bsp_usart.o: .\Device\Include\stm32f10x.h
+.\obj\bsp_usart.o: D:\MDKKEIL\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h
+.\obj\bsp_usart.o: D:\MDKKEIL\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\bsp_usart.o: D:\MDKKEIL\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\obj\bsp_usart.o: D:\MDKKEIL\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\obj\bsp_usart.o: D:\MDKKEIL\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\obj\bsp_usart.o: .\Device\Include\system_stm32f10x.h
+.\obj\bsp_usart.o: .\user\stm32f10x_conf.h
+.\obj\bsp_usart.o: .\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\bsp_usart.o: .\Device\Include\stm32f10x.h
+.\obj\bsp_usart.o: .\StdPeriph_Driver\inc\stm32f10x_spi.h
+.\obj\bsp_usart.o: .\StdPeriph_Driver\inc\stm32f10x_usart.h
+.\obj\bsp_usart.o: .\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\bsp_usart.o: .\StdPeriph_Driver\inc\misc.h
+.\obj\bsp_usart.o: D:\MDKKEIL\ARM\ARMCC\Bin\..\include\stdio.h
