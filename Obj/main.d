@@ -23,4 +23,5 @@
 .\obj\main.o: .\StdPeriph_Driver\inc\stm32f10x_exti.h
 .\obj\main.o: user\bsp_usart.h
 .\obj\main.o: D:\MDKKEIL\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\main.o: user\app_usart.h
 .\obj\main.o: user\app.h

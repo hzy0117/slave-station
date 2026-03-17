@@ -21,6 +21,7 @@
 ".\obj\bsp_spi.o"
 ".\obj\app.o"
 ".\obj\jiexi.o"
+".\obj\app_usart.o"
 ".\user\YXF105GY_CLS_CANWeb2.lib"
 --library_type=microlib --nodebug --strict --scatter ".\Obj\CANWebSTMF105.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols

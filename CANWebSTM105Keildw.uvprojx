@@ -519,6 +519,11 @@
               <FileType>1</FileType>
               <FilePath>.\user\jiexi.c</FilePath>
             </File>
+            <File>
+              <FileName>app_usart.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\user\app_usart.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
